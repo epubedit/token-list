@@ -29509,7 +29509,7 @@
       "chainId": 101,
       "address": "Gemd25RpoWBa6HviAXxLyf1sbGT23CUxHjmwetzTEfL2",
       "symbol": "GEMS",
-      "name": "Space Heads Gems",
+      "name": "Space Heads Gem",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gemd25RpoWBa6HviAXxLyf1sbGT23CUxHjmwetzTEfL2/logo.svg",
       "tags": [
@@ -53766,6 +53766,173 @@
       "logoURI": "https://raw.githubusercontent.com/Coffeecan5577/KremCoin_Repo/main/KremCoin_Model.png",
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "24ip6uLT9KmVdVd6DUydG6HMkmHM59Yxt851iCBWvyfQ",
+      "symbol": "TREE",
+      "name": "TreeCoin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ZettaTree/treecrypto/main/tree.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AwyP3rbLxexvpbNRp3Zm7EM7htLDqzHmysCxfMyUk47g",
+      "symbol": "MIMM",
+      "name": "Mimma Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mnarvaja/crypto/main/Screen%20Shot%202021-12-19%20at%201.57.19%20PM.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6ADxaYzyghezFcQVxarQ7wYvfiDvxwRRuvpLXbEiNxFm",
+      "symbol": "Sgrios",
+      "name": "Sgriosbh Scrivere",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DeMeoNaise/Sgrios/main/SGRIOS3.png",
+      "tags": [
+        "literary-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6PBEGe6YaKmDPw1Ebza823SuvQWQgGZ2NTANBgaKdxHq",
+      "symbol": "GOLEM",
+      "name": "Golem",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6PBEGe6YaKmDPw1Ebza823SuvQWQgGZ2NTANBgaKdxHq/logo.png",
+      "tags": [
+        "Community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BkT8smQpf2dw3V3BVoN4pMp6QEDNWKSqDDpLBj3WtNab",
+      "symbol": "MXC",
+      "name": "Max Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/maximilianried/max-coin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6WaJfGoV2C5GsjjzkpsfPzkcadbXL1qVm3LGzS4fSBqs",
+      "symbol": "CHAZ",
+      "name": "Charlie Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mr-sc0/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4sG8BMvgY3JwnX4EGUCPjWxpvB8hKASwNaM2z8wcQz8X",
+      "symbol": "ICN",
+      "name": "Icona",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/CryptoKnight360/Icona/main/icona_token.png",
+      "tags": [
+        "utility-token",
+        "icona",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://icona.eth.link"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CgHz25LxRxPxQuYYyyfPob8KT6Enqr2k7EA735jA9SNm",
+      "symbol": "GC",
+      "name": "Greedy Crocodiles Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/MrHibo/Token/main/Logo.png",
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "H4aXNzXw3eZxfdKrAzGx9RERf3vbQMgMoRmGtsKtnPbg",
+      "symbol": "PBRC",
+      "name": "PobarCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/zlorgoncho1/pobarcoin/main/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "meme-token",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SmartDevAfrica"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FW4wv9f6t112H5Fv4mRioKG4NshjwiXCfmYnVWKL5kpP",
+      "symbol": "OPHI",
+      "name": "Ophanim",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MartinSkerli/Crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GiDgqNhRnaKsbUW9KK7YiayobVAEZMnXN8X2NFEXQaJY",
+      "symbol": "KWSQ",
+      "name": "KwadSquad",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/x0ff001x0ff001/kwadsquadx0ff/main/kwadsquad.png",
+      "tags": [
+        "social-token",
+        "KwadSquad"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8m4kgdkqWooFTtJYvTzw3bZyaaoM4Bjp1Htwdwbqjasb",
+      "symbol": "SKALA",
+      "name": "Skala Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/cgsnascar/crypto/main/taco-155812__340.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Cnk1PySkhuS2NBUEbAe3fy8pBsfFzgTHDPmMCUxYq11J",
+      "symbol": "JEFFZ",
+      "name": "Jeffrey token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/minip91/jeff/main/logo-min.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7Y7jWR3YMQZDmN6agqKjX4TMbXnQDYtSuVeyukcdi2KR",
+      "symbol": "DFC",
+      "name": "Deptford Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/deptfordio/coin/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
       ]
     }
   ],
